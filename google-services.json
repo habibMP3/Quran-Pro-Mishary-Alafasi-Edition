@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "413266197771",
+    "project_id": "innovatex-32485",
+    "storage_bucket": "innovatex-32485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413266197771:android:6d76ef22cc03694634760e",
+        "android_client_info": {
+          "package_name": "com.arabic.music.radio.streaming.mp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrlioQIgfPdS1xF6vCzIkLi4xaS7avpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413266197771:android:9c4f5858c150168f34760e",
+        "android_client_info": {
+          "package_name": "com.kajianislam.ceramahonline.ustadzterpopuler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrlioQIgfPdS1xF6vCzIkLi4xaS7avpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413266197771:android:f0b26847e586b84d34760e",
+        "android_client_info": {
+          "package_name": "com.quranvibes.alafasi.mp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrlioQIgfPdS1xF6vCzIkLi4xaS7avpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413266197771:android:37fac6b0a5af7a6d34760e",
+        "android_client_info": {
+          "package_name": "com.stickify.wa.stickers.express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrlioQIgfPdS1xF6vCzIkLi4xaS7avpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
